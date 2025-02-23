@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Aayush Dubey 
 - 👀 I’m interested in Web3 and AI development  
-- 🌱 I’m currently learning Nextjs/typescript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning FASTAPI and ML
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me: just say HI on X
+- 😄 Pronouns: he/Him
+- ⚡ Fun fact: I am lazy guy but can focus when its required
 
 <!---
 Aayushdubey05/Aayushdubey05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
